@@ -37,3 +37,7 @@ npm run dev
 npm run build
 ```
 # my-frist-project
+
+# My First Project
+
+Bu mening birinchi GitHub loyiham.
